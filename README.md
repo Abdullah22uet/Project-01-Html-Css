@@ -1,3 +1,3 @@
 # Project-01-Html-Css
-<h1 style="background-color:blue;">Tribute Website</h1>
-<p>This website is completely responsive...</p>
+<h1>Tribute Website</h1>
+<p><b>This website is completely responsive...</b></p>
