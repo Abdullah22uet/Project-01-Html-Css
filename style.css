@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #f1ebfa;
+    border: 10px solid #a17927;
+    text-align: justify;
+    font-family: 'Handjet', cursive;
+
+}
+/* First part ================================================================ */
+.main-section{
+    width: 80%;
+    height: 60vh;
+    display: flex;
+}
+.main-section .picture{
+    width: 30%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.main-section .picture img{
+    width: auto;
+    height: 75%;
+    border-radius: 130px;
+    box-shadow: 4px 3px 8px grey;
+}
+.main-section .title{
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.main-section .title h2{
+    font-size: 3.3rem;
+}
+.main-section .title h4{
+    font-size: 1.8rem;
+}
+
+
+/* Second part ================================================================= */
+.real-part{
+    width: 80%;
+    display: flex;
+    padding: 70px 0 0 0;
+    flex-direction: column;
+    justify-content: center;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.real-part h1{
+    font-size: 4rem;
+}
+.real-part .p1{
+    line-height: 35px;
+    font-weight: 600;
+    padding: 20px 0 0 0;
+}
+.real-part h2{
+    font-size: 2rem;
+    padding: 80px 0 20px 0;
+}
+.real-part .p2 ul{
+    line-height: 32px;
+    font-weight: 600;
+}
+.real-part .p3{
+    position: relative;
+    right: 0;
+}
+
+
+/* Third part =============================================================== */
+.ending{
+    width: 80%;
+    height: 20vh;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 600;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding: 0 0 25px 0;
+    font-size: 1rem;
+}
+.ending .p3 a{
+    color: blue;
+    text-decoration: none;
+}
