@@ -1,6 +1,4 @@
-# Project-01-Html-Css
-<h1>Tribute Website</h1>
-<p><b>This website is completely responsive...</b></p>
-
-<h1>Here visit the website online:</h1>  
-<p><b>https://abdullah22uet.github.io/Project-01-Html-Css/</b></p>
+## 🔥Tribute Website : Quaid-e-Azam 
+This website is created with Html and Css
+## Live preview of website
+https://abdullah22uet.github.io/Project-01-Tribute-Website/
